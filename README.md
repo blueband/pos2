@@ -1,2 +1,2 @@
 # pos2
-School Prokect
+School Project
